@@ -36,6 +36,7 @@ a{
 }
 
 .section-1 h2{
+    text-align: center;
     font-size: 1.7rem;
     margin-bottom: 10px;
 }
@@ -53,6 +54,7 @@ a{
 .section-2 h2{
     font-size: 1.7rem;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .section-2 p{
