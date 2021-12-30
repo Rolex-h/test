@@ -4,7 +4,7 @@
 - ❤️ Interest: I am into 💻, ⚽, 🕹️ and 📷. 
 - 📫 How to reach me: Email me if it's serious, otherwise find me on [twitter](https://twitter.com/leosuith) or [telegram](https://t.me/asuith).
 - ⚡ Fun fact: 50% of my jokes are bad, or, you can say that they are on me.
-- Something to see next: [Yet Another Suith's Blog](https://blog.asuith.com/) (Mandarin)
+- 📜 Something to see next: [Yet Another Suith's Blog](https://blog.asuith.com/) (Mandarin)
 
 
 
