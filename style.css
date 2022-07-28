@@ -6,12 +6,45 @@
     grid-template-columns: repeat(2,1fr);
 }
 
-body{
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto', sans-serif;
-    background-color: #101214;
-    color: #7A7C80;
+img{
+
+    max-width: 100%;
+
+}
+
+.template-bg{
+
+    background: #101010;
+
+}
+
+.bg-normal{
+
+    background: #161616;
+
+}
+
+body p , a {
+
+    font-weight: 500;
+
+}
+
+/* Default css end  */
+
+/* Home-section start  */
+
+.home-section{
+
+    background: url(images/home.jpg) no-repeat center center;
+
+    height: 100vh;
+
+    background-size: cover;
+
+    position: relative;
+
+    z-index: 1;
 
 }
 
